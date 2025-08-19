@@ -29,6 +29,7 @@ h1 {
 
     text-align: center;
     margin: 1px auto;
+    
 }
 
 img {
@@ -54,3 +55,7 @@ img {
     padding: 0px;
 }
 
+.innerlink {
+    background-color: lightyellow;
+    color: teal;
+}
