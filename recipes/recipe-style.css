@@ -1,0 +1,56 @@
+body {
+    background: whitesmoke;
+    font-family: sans-serif;
+    width: 800px;
+}
+
+h1 {
+    color: darkslategray;
+    font-weight: bold;
+    text-align: center;
+    padding: 1em;
+    background-color: lightgray;
+    font-size: 26px;
+}
+
+.home-link {
+    color: teal;
+    display: block;
+    padding: 3px;
+    text-align: center;
+    margin: 10px auto;
+    background-color: lightsalmon;
+    width: 80px;
+    font-size: 24px;
+
+}
+
+.image {
+
+    text-align: center;
+    margin: 1px auto;
+}
+
+img {
+    width: 500px;
+}
+
+.card {
+    background-color: whitesmoke;
+    margin: 15px;
+    color: darkslategrey;
+    font-size: 16px;
+    padding: 5px;
+    }
+
+.card.title {
+    text-align: center;
+    font-size: 24px;
+}
+
+.card.subtitle {
+    text-decoration: underline;
+    font-size: 18px;
+    padding: 0px;
+}
+
